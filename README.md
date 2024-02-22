@@ -1,6 +1,7 @@
-# Enunciado
+# Repositorio con Proyectos hechos con Vanilla JavaScript, HTML y CSS
+## Posteriormente se creará un repo para hacerlos usando React
 
-Ecommerce
+Vanilla ProjectsÑ
 
 - ✅ Muestra una lista de productos que vienen de un JSON
 - ✅ Añade un filtro por categoría
