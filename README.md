@@ -1,18 +1,23 @@
 # Repositorio con Proyectos hechos con Vanilla JavaScript, HTML y CSS
 ## Posteriormente se creará un repo para hacerlos usando React
 
-Vanilla ProjectsÑ
+Vanilla Projects
 
-- ✅ Muestra una lista de productos que vienen de un JSON
-- ✅ Añade un filtro por categoría
-- ✅ Añade un filtro por precio
+- ✅ Accordion
+  - [x] Preparación para entrevista frontend.
+- ✅ FAQ Accordion 1
+  - [x] Preparación para entrevista frontend.
+- ✅ FAQ Accordion 2
+  - [x] Preparación para entrevista frontend.
+- ✅ Weather App
+- ✅ To-Do-List
+- ✅ Workana-test
+  - [x] Test de Workana
+- ✅ Quiz-app
+- ✅ Declaracion
+  - [x] App para aprender que se mueva el botón.
+- ✅ Password-Generator
+- ✅ Notes App
+- ✅ Age Calculator
+- ✅ Quote Generator
 
-Haz uso de useContext para evitar pasar props innecesarias.
-
-Carrito:
-
-- [x] Haz que se puedan añadir los productos a un carrito.
-- [x] Haz que se puedan eliminar los productos del carrito.
-- [x] Haz que se puedan modificar la cantidad de productos del carrito.
-- [x] Sincroniza los cambios del carrito con la lista de productos.
-- [x] Guarda en un localStorage el carrito para que se recupere al recargar la página. (da puntos)
