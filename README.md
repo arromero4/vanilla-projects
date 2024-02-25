@@ -20,4 +20,6 @@ Vanilla Projects
 - ✅ Notes App
 - ✅ Age Calculator
 - ✅ Quote Generator
+- ✅ QR Generator
+  - [x] API QR: https://goqr.me/api/
 
