@@ -22,4 +22,4 @@ Vanilla Projects
 - ✅ Quote Generator
 - ✅ QR Generator
   - [x] API QR: https://goqr.me/api/
-
+- ✅ Toast Notification
